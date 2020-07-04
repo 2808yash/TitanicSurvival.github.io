@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run titanic_ml.py
+web: sh setup.sh && streamlit run titanic-ml.py
